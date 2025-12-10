@@ -28,8 +28,17 @@
 HTML-страница с документацией API.
 
 ## Скриншоты
-1. Главная страница – screenshots/main.png
-2. Все цитаты – screenshots/all_quotes.png  
-3. Случайная цитата – screenshots/random_quote.png
-4. Фильтр по автору – screenshots/filter.png
-5. Логи в консоли – screenshots/console.png
+### 1. Главная страница
+![Главная страница](screenshots/main.png)
+
+### 2. Все цитаты
+![Все цитаты](screenshots/all_quotes.png)
+
+### 3. Случайная цитата
+![Случайная цитата](screenshots/random_quote.png)
+
+### 4. Фильтр по автору
+![Фильтр по автору](screenshots/filter.png)
+
+### 5. Логи в консоли
+![Логи в консоли](screenshots/console.png)
